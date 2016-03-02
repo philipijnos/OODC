@@ -1,0 +1,21 @@
+Nee.
+Ja, alleen als ze public final static zijn.
+Ja, als ze abstract zijn.
+Nee.
+Ja, limiet is 255, maar dat haal je toch nooit.
+Ja.
+Nee.
+Ja.
+Ja.
+Nee.
+Nee, alleen de constructoren niet en private dingen.
+Nee, de vraag was slecht.
+Ja.
+Nee.
+Nee.
+Nee.
+Nee.
+Ja, mits hij niet abstract is.
+Nee.
+Nee.
+Ja.
