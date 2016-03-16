@@ -60,4 +60,13 @@ public class Persoon{
 		}
 		return result;
 	}
+	public Game zoekGameOpNaam(String gamenaam){
+		Game result = new Game();
+		for(Game g : this.mijnGames){
+			if(g.getNaam().equals(gamenaam)){
+				result = g;
+			}
+		}
+		return result;
+	}
 }
